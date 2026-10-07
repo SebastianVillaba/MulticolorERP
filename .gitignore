@@ -1,0 +1,37 @@
+# Visual Studio - archivos de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Salidas de compilación
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x86/
+x64/
+
+# Proyecto de instalación (salidas)
+*.msi
+*.cab
+
+# Archivos de depuración / temporales
+*.pdb
+*.cache
+*.tmp
+*.log
+TempPE/
+
+# Certificados y claves
+*.pfx
+*.snk
+
+# ReSharper / otros
+_ReSharper*/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+Desktop.ini
